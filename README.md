@@ -142,9 +142,9 @@ Reads the .csv file corresponding to the given variable name and generates an ar
 * About
 ## Example Output
 --------------
-![cnr_t1w]("cnr_t1w.png")
-![cnr_t1w Age]("cnr_t1w_Age.png")
-![cnr_t1w Sex]("cnr_t1w_Sex.png")
-![cnr_t1w BMI]("cnr_t1w_BMI.png")
-![cnr_t1w BMI Separated by Sex]("cnr_t1w_BxS.png")
-![cnr_t1w 3D]("cnr_t1w_3D.png")
+![cnr_t1w](cnr_t1w.png)
+![cnr_t1w Age](cnr_t1w_Age.png)
+![cnr_t1w Sex](cnr_t1w_Sex.png)
+![cnr_t1w BMI](cnr_t1w_BMI.png)
+![cnr_t1w BMI Separated by Sex](cnr_t1w_BxS.png)
+![cnr_t1w 3D](cnr_t1w_3D.png)
