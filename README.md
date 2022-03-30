@@ -140,11 +140,23 @@ Reads the .csv file corresponding to the given variable name and generates an ar
 * Outliers
 * Data
 * About
-## Example Output
+# Example Output
+--------------
+## Total Data, with +/- 1 and 2 std lines
 --------------
 ![cnr_t1w](cnr_t1w.png)
+## Age
+--------------
 ![cnr_t1w Age](cnr_t1w_Age.png)
+## Sex
+--------------
 ![cnr_t1w Sex](cnr_t1w_Sex.png)
+## BMI
+--------------
 ![cnr_t1w BMI](cnr_t1w_BMI.png)
+## BMI Separated by Sex
+--------------
 ![cnr_t1w BMI Separated by Sex](cnr_t1w_BxS.png)
+## 3D
+--------------
 ![cnr_t1w 3D](cnr_t1w_3D.png)
