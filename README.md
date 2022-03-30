@@ -159,4 +159,4 @@ Reads the .csv file corresponding to the given variable name and generates an ar
 ![snr_csf BMI Separated by Sex](snr_csf_BxS.png)
 ## 3D
 --------------
-![snr_csf 3D](snr_csf_3D.png)
+![aqi_rest 3D](aqi_rest_3D.png)
