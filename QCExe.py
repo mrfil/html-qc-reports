@@ -43,6 +43,39 @@ import dateutil.parser as dparser
 date = dparser.parse(csv_name,fuzzy=True).strftime("%m/%d/%Y") #date updated (mm/dd/yyyy), extracted from csv_name
 
 
+<<<<<<< HEAD
+# In[23]:
+
+
+#Heatmap
+
+# corr = df.corr()
+# corr_thresh = corr[(corr>.975) & (corr<1)]
+# corr_thresh.fillna(value = 0,inplace=True)
+# for col in corr_thresh:
+#     counter = len(corr_thresh[col])
+#     for item in corr_thresh[col]:
+#         if item ==0:
+#             counter-=1
+#     if counter == 0:
+#         corr_thresh.drop(col,axis=1,inplace=True)
+#         corr_thresh.drop(col,axis=0,inplace=True)
+# corr2 = corr_thresh.corr()
+
+# fig, ax = plt.subplots(figsize=(75,75))
+# ax = sns.heatmap(corr2)
+# fig1 = ax.get_figure() 
+# fig1.savefig('heatmap_95.png') #save each plot in local folder
+# plt.close(fig1)
+# fig, ax = plt.subplots(figsize=(100,100))
+# ax = sns.heatmap(corr)
+# fig2 = ax.get_figure() 
+# fig2.savefig('heatmap_total.png') #save each plot in local folder
+# plt.close(fig2)
+
+
+=======
+>>>>>>> 1c8a9f085f1a281c7b21cc13b9e4b521a4f3dd74
 # In[24]:
 
 
