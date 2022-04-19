@@ -43,6 +43,7 @@ import dateutil.parser as dparser
 date = dparser.parse(csv_name,fuzzy=True).strftime("%m/%d/%Y") #date updated (mm/dd/yyyy), extracted from csv_name
 
 
+<<<<<<< HEAD
 # In[23]:
 
 
@@ -73,6 +74,8 @@ date = dparser.parse(csv_name,fuzzy=True).strftime("%m/%d/%Y") #date updated (mm
 # plt.close(fig2)
 
 
+=======
+>>>>>>> 1c8a9f085f1a281c7b21cc13b9e4b521a4f3dd74
 # In[24]:
 
 
