@@ -144,19 +144,19 @@ Reads the .csv file corresponding to the given variable name and generates an ar
 --------------
 ## Total Data, with +/- 1 and 2 std lines
 --------------
-![snr_csf](snr_csf.png)
+![peak_vo2](peakvo2_ml_gxt.png)
 ## Age
 --------------
-![snr_csf Age](snr_csf_Age.png)
+![peak_vo2 Age](peakvo2_ml_gxt_Age.png)
 ## Sex
 --------------
-![snr_csf Sex](snr_csf_Sex.png)
+![peak_vo2 Sex](peakvo2_ml_gxt_Sex.png)
 ## BMI
 --------------
-![snr_csf BMI](snr_csf_BMI.png)
+![peak_vo2 BMI](peakvo2_ml_gxt_BMI.png)
 ## BMI Separated by Sex
 --------------
-![snr_csf BMI Separated by Sex](snr_csf_BxS.png)
+![peak_vo2 BMI Separated by Sex](peakvo2_ml_gxt_BxS.png)
 ## 3D
 --------------
-![aqi_rest 3D](aqi_rest_3D.png)
+![peak_vo2 3D](peakvo2_ml_gxt_3D.png)
