@@ -28,7 +28,7 @@ sns.set_theme(style="darkgrid")
 sns.set(font_scale = 1.5)
 
 global df
-csv_name = 'pipeline_outputs_SAY_10-15-2021.csv'#INPUT csv name here
+csv_name = 'pipeline_outputs_SUB_10-15-2021.csv'#INPUT csv name here
 df = pd.read_csv(csv_name) #import csv
 df_data = pd.read_csv("data.csv") #second data sheet
 
@@ -37,7 +37,7 @@ df = df.merge(df_data, on="subject_id", how = 'left')
 
 list_outliers = {} #global list of outliers for later use
 
-study_name = "SAY" #INPUT study name
+study_name = "SUB" #INPUT study name
 
 import dateutil.parser as dparser
 date = dparser.parse(csv_name,fuzzy=True).strftime("%m/%d/%Y") #date updated (mm/dd/yyyy), extracted from csv_name
